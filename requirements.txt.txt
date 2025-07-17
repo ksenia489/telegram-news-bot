@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+feedparser
+requests
+beautifulsoup4
+apscheduler
